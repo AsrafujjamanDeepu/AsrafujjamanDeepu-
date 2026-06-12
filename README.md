@@ -22,8 +22,8 @@ namespace AsrafujjamanDeepu
 {
     public class Developer
     {
-        public string   Name       { get; } = "Md. Asrafujjaman";
-        public string   Alias      { get; } = "Deebu";
+        public string   Name       { get; } = "Asrafujjaman";
+        public string   Alias      { get; } = "Deepu";
         public string   Location   { get; } = "📍 Dhaka, Bangladesh";
         public string   Email      { get; } = "asrafujjamandeepu@gmail.com";
         public string   Phone      { get; } = "+8801521200643";
@@ -123,8 +123,7 @@ namespace AsrafujjamanDeepu
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![Library Management](https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=MSSQL_Library_Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AsrafujjamanDeepu/MSSQL_Library_Management)
+    
 [![Media Streaming](https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=MSSQL_Advanced_Media_Streaming_Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AsrafujjamanDeepu/MSSQL_Advanced_Media_Streaming_Management)
 
 </div>
