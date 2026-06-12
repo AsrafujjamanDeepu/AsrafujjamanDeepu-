@@ -191,9 +191,18 @@ namespace AsrafujjamanDeepu
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-asrafujjamandeepu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrafujjamandeepu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asrafujjaman)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B8801521200643-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801521200643)
+<a href="mailto:asrafujjamandeepu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/AsrafujjamanDeepu" target="_blank">
+  <img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://facebook.com/ashrafujjamandeepu" target="_blank">
+  <img src="https://img.shields.io/badge/--1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://wa.me/8801521200643" target="_blank">
+  <img src="https://img.shields.io/badge/--25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/>
+</a>
 
 </div>
 
