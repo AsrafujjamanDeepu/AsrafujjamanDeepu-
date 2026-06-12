@@ -158,7 +158,7 @@ namespace AsrafujjamanDeepu
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AsrafujjamanDeepu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AsrafujjamanDeepu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -182,7 +182,7 @@ namespace AsrafujjamanDeepu
 
 <div align="center">
 
-![Snake animation](https://github.com/AsrafujjamanDeepu/AsrafujjamanDeepu/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AsrafujjamanDeepu/AsrafujjamanDeepu/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
