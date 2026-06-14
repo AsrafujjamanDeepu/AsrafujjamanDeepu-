@@ -122,7 +122,7 @@ namespace AsrafujjamanDeepu
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div>
     
 [![Media Streaming](https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Study_Tracker_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AsrafujjamanDeepu/Study_Tracker_Python)
     
