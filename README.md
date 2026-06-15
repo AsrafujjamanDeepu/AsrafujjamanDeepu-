@@ -122,11 +122,16 @@ namespace AsrafujjamanDeepu
 
 ## 🚀 Featured Projects
 
-<div align="center">
-    
-[![Media Streaming](https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Study_Tracker_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AsrafujjamanDeepu/Study_Tracker_Python)
+<p align="center">
+  <a href="https://github.com/AsrafujjamanDeepu/Study_Tracker_Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Study_Tracker_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Study Tracker" width="48%" />
+  </a>
+  <a href="https://github.com/AsrafujjamanDeepu/MSSQL_Advanced_Media_Streaming_Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=MSSQL_Advanced_Media_Streaming_Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Media Streaming DB" width="48%" />
+  </a>
+</p>
 
-</div>
+
 
 ### 🔨 Also Built (Coming to GitHub soon)
 | Project | Stack | Description |
